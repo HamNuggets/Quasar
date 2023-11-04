@@ -1,7 +1,7 @@
 # Quasar
 my take on a tiny toolhead for a tiny printer
 
-This is designed for use with (Rudy)[https://github.com/RazorSh4rk/Rudy], a corexy printer designed by Razorsh4rk. It aims to offer direct drive in a space efficient manner, since currently the only direct drive option is DDrudy.
+This is designed for use with [Rudy](https://github.com/RazorSh4rk/Rudy]), a corexy printer designed by Razorsh4rk. It aims to offer direct drive in a space efficient manner, since currently the only direct drive option is DDrudy.
 
 # Sourcing Guide
 
